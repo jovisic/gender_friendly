@@ -1,3 +1,4 @@
 DatasetFaces/
 venv/
 .idea/
+__pycache__/
